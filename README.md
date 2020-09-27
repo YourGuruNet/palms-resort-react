@@ -1,8 +1,8 @@
 <h1>Simple Webpage created with react.</h1>
-<img src="images-readme/picture12.JPG" width="40">
-![](images-readme/picture12.JPG)
-![](images-readme/picture13.JPG)
-![](images-readme/picture14.JPG)
+<img src="images-readme/picture12.JPG" width="1080">
+<img src="images-readme/picture13.JPG" width="1080">
+<img src="images-readme/picture14.JPG" width="1080">
+
 
 
 
