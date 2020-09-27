@@ -1,5 +1,7 @@
 Simple Webpage created with react.
-![](images-readme/picture12.jpg)
+![](images-readme/picture12.JPG)
+![](images-readme/picture13.JPG)
+![](images-readme/picture14.JPG)
 
 
 
