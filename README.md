@@ -1,5 +1,5 @@
 <h1>Simple Webpage created with react.</h1>
-<a href="https://palmresort.netlify.app/">https://palmresort.netlify.app/</a>
+<a href="https://palmresort.netlify.app/" target="_blank">https://palmresort.netlify.app/</a>
 
 <img src="images-readme/picture12.JPG" width="1080">
 <img src="images-readme/picture13.JPG" width="1080">
