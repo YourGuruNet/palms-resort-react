@@ -1,6 +1,7 @@
 <h1>Simple Webpage created with react.</h1>
+<h5>Chek link hosted with netlify: </h5>
 <a href="https://palmresort.netlify.app/" target="_blank">https://palmresort.netlify.app/</a>
-
+<br>
 <img src="images-readme/picture12.JPG" width="1080">
 <img src="images-readme/picture13.JPG" width="1080">
 <img src="images-readme/picture14.JPG" width="1080">
