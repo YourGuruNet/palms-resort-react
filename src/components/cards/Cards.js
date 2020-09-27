@@ -26,7 +26,7 @@ function Cards() {
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
-                        src="images/image-4"
+                        src="images/image-4.jpg"
                         text="Grand Mountain Adventure. An open-world skiing & snowboarding adventure. We're heading for Steam, wishlist and come with ideas"
                         label="Mountains"
                         path="/services"/>
